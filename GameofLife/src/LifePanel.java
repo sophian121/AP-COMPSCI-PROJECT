@@ -5,7 +5,10 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-
+/** @author Sophia Nuñez APCSA 
+* this class is respnsible for the colours of cells and board it displays, 
+* where cells respawn, and where cells generated. 
+*/ 
 public class LifePanel extends JPanel implements ActionListener{
 
 	int xPanel = 1300; 
